@@ -90,7 +90,7 @@ The data provided includes customer demographics, churn behaviors, and service d
 - **Churn Rate by Unlimited Plan (<5GB):** 34.71%  
   ![Unlimited Plan Churn Chart](https://github.com/AhmedKhater00/Customer-Churn-Analysis/blob/main/Churn%20Rate%20by%20Unlimited%20Plan%20(5GB).png)  
 
-- **Extra Data Charges (Non-Unlimited, 10GB+):** $31.91  
+- **Extra Data Charges (Non-Unlimited, 10GB+):** $31.19  
   ![Extra Data Charges Chart](https://github.com/AhmedKhater00/Customer-Churn-Analysis/blob/main/Extra%20Data%20Charges%20(Non-Unlimited%2C%2010GB%2B).png)    
 
 ---
